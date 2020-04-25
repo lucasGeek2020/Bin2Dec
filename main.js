@@ -48,20 +48,5 @@ btn.onclick = function(){
 };
 
 
-/*
-//funcao quando musar o valor input
-binario.onchange = function(){
-
-    document.addEventListener('keyup', logKey);
-    function logKey(e) {
-        console.log(e.code)
-        //validaçao do binario
-       if(e.code !== "Digit1" && e.code !== "Numpad0" && e.code !== "Digit0" && e.code !== "Numpad1"){
-            console.log("náo é binario");
-        }
-      }
-   
-
-*/
 
 
